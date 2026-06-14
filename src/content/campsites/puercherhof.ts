@@ -124,7 +124,7 @@ const puercherhof: CampsiteConfig = {
       {
         title: "Kleintiere zum Anfassen",
         text: "Hasen und Kleintiere wollen versorgt werden — beim Füttern und Streicheln vergeht der Vormittag wie im Flug.",
-        image: { src: `${IMG}/kids-7175bdb82a.webp`, alt: "Kinder beim Kleintierstall am Pürcherhof" },
+        image: { src: `${IMG}/kids-3698831da0.webp`, alt: "Zwei Mädchen halten Hasen vor dem Holzstadl am Pürcherhof" },
       },
       {
         title: "Kutschen- & Bummelzugfahrten",
