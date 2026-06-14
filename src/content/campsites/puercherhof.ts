@@ -85,7 +85,7 @@ const puercherhof: CampsiteConfig = {
       },
       {
         title: "Sommercard inklusive",
-        text: "Ab der ersten Übernachtung über 100 Top-Attraktionen in Schladming-Dachstein nutzen — Bäder und Seen inklusive, ganz ohne Aufpreis.",
+        text: "Über 100 Attraktionen in Schladming-Dachstein ab der ersten Nacht nutzen — Bäder und Seen ganz ohne Aufpreis.",
         image: { src: `${IMG}/gallery-34865311ae.webp`, alt: "Hofwiesen und Berge rund um den Pürcherhof" },
       },
       {
